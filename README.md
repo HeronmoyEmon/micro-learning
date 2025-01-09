@@ -20,6 +20,7 @@ It is a growing library of insights across various domains. By maintaining this 
     - [Logging, Metrics, Automation](/SystemDesignInterview-AlexXu.md#logging-metrics-automation)
     - [Database Sharding](/SystemDesignInterview-AlexXu.md#database-sharding)
     - [Designed System](/SystemDesignInterview-AlexXu.md#designed-system---chapter-1)
+4. [Java Threads](/JavaThreads.md)
 
 ## **Linux Soft Links and Hard Links**
 
