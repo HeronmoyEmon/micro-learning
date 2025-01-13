@@ -21,6 +21,12 @@ It is a growing library of insights across various domains. By maintaining this 
     - [Database Sharding](/SystemDesignInterview-AlexXu.md#database-sharding)
     - [Designed System](/SystemDesignInterview-AlexXu.md#designed-system---chapter-1)
 4. [Java Threads](/JavaThreads.md)
+5. [Mockito](/Mockito.md)
+    - [How to Mock](/Mockito.md#how-to-mock)
+    - [How to Stub with Mocktio](/Mockito.md#how-to-stub-with-mockito)
+    - [Throw Exception](/Mockito.md#throw-exception)
+    - [Using .thenAnswer() instead of .thenReturn()](/Mockito.md#using-thenanswer-instead-of-thenreturn)
+
 
 ## **Linux Soft Links and Hard Links**
 
